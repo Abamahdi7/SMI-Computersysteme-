@@ -20,7 +20,9 @@ Ensure Python 3 is installed on your system
 Place the log.txt file in the same directory as the script
 Run the program using:
 python log_analyzer.py
+
 Example Output
+
 === Log Report ===
 Errors: 2
 Warnings: 1
@@ -29,6 +31,7 @@ Info: 1
 Critical Issues:
 - ERROR: Disk full
 - ERROR: Connection failed
+- 
 Purpose
 
 This project demonstrates fundamental Python skills, including file handling, loops, and conditional logic. It also reflects a practical use case in IT environments, where analyzing log files is a common task for monitoring systems and identifying issues.
